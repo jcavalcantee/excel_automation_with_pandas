@@ -24,7 +24,7 @@ Essa segmentação permite que apenas as informações relevantes sejam processa
 
 O código gera automaticamente uma hierarquia de pastas organizada da seguinte forma:
 
-DIRETÓRIO BASE / [Regional] / [Mês Atual] / [ID Regional - Nome Regional]
+DIRETÓRIO BASE / `[Regional] / [Mês Atual] / [ID Regional - Nome Regional]`
 
 Isso garante uma organização padronizada e facilita a consulta futura dos arquivos.
 
@@ -36,7 +36,7 @@ O novo arquivo atualizado é salvo na pasta correspondente sem alterar a estrutu
 
 ### 5️⃣ Execução Automática do Fluxo Completo
 
-A função executarAutomacao() dispara todo o processo automaticamente.
+A função `executarAutomacao()` dispara todo o processo automaticamente.
 
 O tempo de execução é monitorado para avaliação de performance.
 
